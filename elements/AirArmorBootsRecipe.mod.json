@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AirArmor.boots"
+    },
+    "name": "air_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}
